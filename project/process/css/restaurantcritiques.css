@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#wrapper {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	align-content: center;
+}
+
+header {
+	text-align: center;
+}
+
+h2 {
+	color:#AE4B4D;
+}
+
+article {
+	text-align: left;
+	padding-top: 10px;
+	align-content: center;
+}
+
+a:link {
+	color:#00A8B0;
+	background-color:transparent;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#43635F;
+	background-color:transparent;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#FFC341;
+	background-color:transparent; 
+	text-decoration:underline;
+}
